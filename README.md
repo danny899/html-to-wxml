@@ -1,4 +1,4 @@
-# html-to-wxml
+# html2wxml-java
 
 This is an open source Java library that converts HTML to WeChat WXML.
 
